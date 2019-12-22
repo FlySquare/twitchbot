@@ -2,4 +2,10 @@
 Uygulamayı kullanmak için "npm install tmi.js" kütüphanesini yüklemeniz gerekmektedir.
 
 # kurulum
- indexi ana dizine atıproken ve kullanıcı adını düzenleyerek kullanımına hazır hale getirebilirsiniz
+ 1- npm install tmi.js // tmi.js kütüphanesini indirin
+ 2- Edit channel var // Hangi twitch kanalında kullanacaksanız ona göre düzenleyin
+ 3- Edit identity. // Botun kullanıcı adı ve token i
+ 4- node index.js
+ 
+ ![twitchchannel](https://i.hizliresim.com/qArOZW.png)
+
